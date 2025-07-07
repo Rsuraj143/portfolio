@@ -59,13 +59,13 @@ function Resume() {
             company="MicroSpark Software Solutions Pvt. Ltd."
             info="Worked on designing landing pages of website using different technologies like JAVASCRIPT, REACTJS,TAILWIND CSS, HTML, CSS, BOOTSTRAP"
           />
-          <ExperienceCard
+          {/* <ExperienceCard
             logo="/static/images/Thriveni.png"
             year="Nov 2020 - Feb 2022"
             post="Front End Developer"
             company="Thriveni Earthmovers Pvt. Ltd."
             info="Worked on InHouse Projects using  technologies like  JAVASCRIPT, REACTJS, TAILWINDIC CSS, HTML, CSS, SCSS, BOOTSTRAP"
-          />
+          /> */}
         </div>
       </div>
 
