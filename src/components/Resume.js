@@ -11,9 +11,9 @@ function Resume() {
       className="flex flex-col items-center main-container pt-10 pb-12 px-4 sm:px-16"
       id="resume"
     >
-      <h3 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-10">
+      {/* <h3 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-10">
         Resume
-      </h3>
+      </h3> */}
 
       <div className="flex flex-col items-start self-start w-full mb-10">
         <h6 className="text-xl md:text-2xl lg:text-3xl font-bold text-white mb-6 md:mb-10 px-8 sm:px-0">
@@ -98,7 +98,7 @@ function Resume() {
         </div>
       </div>
       <a
-        href="./SurajRauda.pdf"
+        href="./Suraj_Rauda_resume.pdf"
         target="_blank"
         className="flex space-x-4 text-xl my-6 items-center bg-white bg-opacity-10 border border-transparent hover:shadow-md hover:border-gray-200 focus:outline-none  text-nik-lightGray px-6 py-4 rounded-3xl cursor-pointer mt-8 hover:border-opacity-20 transition-all"
       >
