@@ -17,7 +17,7 @@ function About() {
 
 			<div className="p-8 flex flex-col space-y-4">
 				<p className="text-base text-justify sm:text-lg text-white">
-				Hello there! I'm Suraj Rauda, a passionate Front End Developer with 3.5 years of hands-on experience. My expertise lies in crafting seamless user experiences using a toolkit that includes JavaScript, ReactJS, NextJS, Tailwind CSS, Bootstrap, and more. I thrive on turning design concepts into reality, having successfully executed numerous projects where I designed reusable components and implemented pages based on Figma designs. My skills extend to API integration, SCSS, CSS, GitHub, Framer Motion, Redux, Chakra UI, React Hook Forms, Formik, JQuery, Git, Axios, and beyond. Let's collaborate to bring your web vision to life with innovation and precision!
+				Hello there! I'm Suraj Rauda, a passionate Front End Developer with 3.8 years of hands-on experience. My expertise lies in crafting seamless user experiences using a toolkit that includes JavaScript, ReactJS, NextJS, Tailwind CSS, Bootstrap, and more. I thrive on turning design concepts into reality, having successfully executed numerous projects where I designed reusable components and implemented pages based on Figma designs. My skills extend to API integration, SCSS, CSS, GitHub, Framer Motion, Redux, Chakra UI, React Hook Forms, Formik, JQuery, Git, Axios, and beyond. Let's collaborate to bring your web vision to life with innovation and precision!
 				</p>
 				<h3 className="text-2xl text-white font-bold">I Love</h3>
 				<div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 sm:gap-2 md:gap-5 xl:flex items-center justify-between">

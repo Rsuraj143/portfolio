@@ -20,6 +20,7 @@ function ProjectCard({ img, title, link, description }) {
 					</div>
 					<a
 						href={link}
+						target="_blank"
 						className="bg-white text-black px-5 py-4 md:py-3 md:px-4 xl:py-4 xl:px-6 rounded-xl text-base md:text-base xl:text-lg font-normal shadow-xl hover:bg-nik-dark hover:text-white focus:outline-none"
 					>
 						See Live
