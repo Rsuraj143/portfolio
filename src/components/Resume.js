@@ -17,7 +17,6 @@ function Resume() {
         <FiDownload className="text-2xl md:text-3xl" />
         <span>Resume</span>
       </a>
-
       <div className="flex flex-col items-start self-start w-full mb-10">
         <h6 className="text-xl md:text-2xl lg:text-3xl font-bold text-white mb-6 md:mb-10 px-8 sm:px-0">
           Education
